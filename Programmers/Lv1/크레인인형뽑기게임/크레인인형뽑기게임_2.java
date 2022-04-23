@@ -1,4 +1,4 @@
-package Programmers.크레인인형뽑기게임;
+package Programmers.Lv1.크레인인형뽑기게임;
 
 import java.util.Stack;
 

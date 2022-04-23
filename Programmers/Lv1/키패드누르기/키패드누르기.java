@@ -1,4 +1,4 @@
-package Programmers.키패드누르기;
+package Programmers.Lv1.키패드누르기;
 
 // time: 20:36
 // 2022.04.18

@@ -1,6 +1,4 @@
-package Programmers.신규아이디추천;
-
-import java.util.Locale;
+package Programmers.Lv1.신규아이디추천;
 
 // failed
 // prob: 2번째 조건문

@@ -1,4 +1,4 @@
-package Programmers.숫자문자열과영단어;
+package Programmers.Lv1.숫자문자열과영단어;
 
 // time: 34:24
 // 2022.04.19

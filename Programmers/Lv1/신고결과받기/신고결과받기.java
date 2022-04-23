@@ -1,4 +1,4 @@
-package Programmers.신고결과받기;
+package Programmers.Lv1.신고결과받기;
 
 import java.util.ArrayList;
 import java.util.List;
