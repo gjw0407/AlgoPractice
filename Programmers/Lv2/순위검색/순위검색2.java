@@ -52,7 +52,7 @@ public class 순위검색2 {
 
     private static int binarySearch(String key, int score) {
         List<Integer> list = map.get(key);
-        System.out.println(list);
+
         int start = 0, end = list.size() - 1;
 
         while (start <= end) {
