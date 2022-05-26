@@ -28,7 +28,7 @@ public class 소수찾기 {
     public static void make(String number, int m, String temp) {
         if (temp.length() == m) {
             int num = Integer.parseInt(temp);
-
+            System.out.println(temp);
             if (!arr.contains(num)) {
                 arr.add(num);
             }
