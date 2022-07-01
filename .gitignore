@@ -24,6 +24,6 @@ hs_err_pid*
 
 .idea
 out/
-/lineTest/num1.java
-/lineTest/num2.java
-/lineTest/num3.java
+/test/num1.java
+/test/num2.java
+/test/num3.java
