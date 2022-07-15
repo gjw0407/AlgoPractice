@@ -1,6 +1,8 @@
 package templates;
 
 import java.util.Arrays;
+import java.util.LinkedList;
+import java.util.List;
 
 public class Permutation {
     static char[] src = {'a', 'b', 'c', 'd'};
@@ -25,4 +27,5 @@ public class Permutation {
         }
 
     }
+
 }

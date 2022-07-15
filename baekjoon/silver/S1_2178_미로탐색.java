@@ -27,7 +27,7 @@ public class S1_2178_미로탐색 {
         }
 
         bfs();
-        System.out.println(map[N-1][M-1]);
+        System.out.println(map[N - 1][M - 1]);
     }
 
     public static class Now {
