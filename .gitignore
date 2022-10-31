@@ -27,3 +27,5 @@ out/
 /test/num1.java
 /test/num2.java
 /test/num3.java
+.classpath
+.project
